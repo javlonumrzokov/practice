@@ -33,4 +33,4 @@ result = y.isnumeric()
 print(f"input value is numeric: {result}")
 
 test_truthy = "MIT"
-print("test truthy: ", bool(test_truthy2))
+print("test truthy: ", bool(test_truthy))
